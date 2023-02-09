@@ -1,0 +1,26 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+	<head>
+		<meta charset='utf-8'>
+			<title>This example page</title> 
+	</head>
+	<body>
+		<p> Michelle Gutierrez - mmgbmv@mail,missouri.edu </p>
+		<p> joke. </p>
+		<a href="mailto:mmgbmv@mail.missouri.edu"><img scr="img/michelleportrait.jpg"></a>
+		<a href=""><img src=""></a>
+
+	<ul>
+		<li>one</li>
+		<li>two</li>
+		<li>three</li>
+		<li>four</li>
+
+	</ul>
+	<a href="example2.html">link within your site</a>
+	<a href="https://michellemgutierrez.myportfolio.com/">link outside</a>
+
+	</body>
+</html>
+
+
